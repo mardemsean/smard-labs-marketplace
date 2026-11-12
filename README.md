@@ -1,4 +1,4 @@
-# smard-marketplace
+# smard-labs-marketplace
 
 Claude Code / Cowork plugin marketplace of SMardLabs (Sean Mardem).
 
@@ -16,9 +16,9 @@ A deterministic enforcement layer made only of hooks (no LLM inside):
 
 ## Install
 
-claude.ai -> Personalização -> Plugins -> Add -> Add marketplace -> `mardemsean/smard-marketplace` -> enable `smard-arsenal-gate`.
+claude.ai -> Personalização -> Plugins -> Add -> Add marketplace -> `mardemsean/smard-labs-marketplace` -> enable `smard-arsenal-gate`.
 
-Claude Code CLI: `claude plugin marketplace add mardemsean/smard-marketplace` (set `CLAUDE_CODE_PLUGIN_PREFER_HTTPS=1` when SSH to github.com is not configured), then `claude plugin install smard-arsenal-gate@smard-marketplace`.
+Claude Code CLI: `claude plugin marketplace add mardemsean/smard-labs-marketplace` (set `CLAUDE_CODE_PLUGIN_PREFER_HTTPS=1` when SSH to github.com is not configured), then `claude plugin install smard-arsenal-gate@smard-labs-marketplace`.
 
 ## Kill switch
 
